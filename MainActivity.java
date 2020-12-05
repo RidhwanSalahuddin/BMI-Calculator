@@ -1,8 +1,5 @@
 package com.example.d1;
 
-// Student Name : Ridhwan Salahuddin
-// This Lab was done individually
-
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
