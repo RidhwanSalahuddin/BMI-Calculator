@@ -1,8 +1,5 @@
 package com.example.d1;
 
-// Student Name : Ridhwan Salahuddin
-// This Lab was done individually
-
 public class BMIModel {
 
     public static double toDouble(String s)
